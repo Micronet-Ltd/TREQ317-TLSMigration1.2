@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TLS12Test</string>
+    <string name="send_https_request">Send https request</string>
+    <string name="nothing_to_show_yet">Nothing to show yet</string>
+    <string name="in_progress">"In Progress"</string>
+    <string name="test_mqtt">Test Mqtt</string>
+</resources>
